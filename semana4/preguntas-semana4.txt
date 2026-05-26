@@ -1,0 +1,34 @@
+Pregunta 1 — Selección múltiple
+¿Qué es Node.js?
+Un navegador web
+Un entorno que permite ejecutar JavaScript en el servidor
+Un sistema operativo
+Una base de datos
+Pregunta 1: Respuesta: Un entorno que permite ejecutar JavaScript en el servidor
+
+
+Pregunta 2 — Selección múltiple
+¿Qué hace el comando npm init?
+Borra el proyecto
+Inicializa un proyecto Node.js creando el archivo package.json
+Instala internet
+Crea una base de datos
+Pregunta 2: Respuesta: Inicializa un proyecto Node.js creando el archivo package.json
+
+
+Pregunta 3 — Selección múltiple
+¿Qué es Express en Node.js?
+Un sistema de diseño gráfico
+Un framework para construir servidores y APIs en Node.js
+Un sistema operativo
+Un editor de código
+Pregunta 3: Respuesta: Un framework para construir servidores y APIs en Node.js
+
+
+Pregunta 4 — Selección múltiple
+¿Qué hace una ruta en una aplicación web?
+Guarda archivos en el computador
+Define cómo responde el servidor cuando un usuario accede a una URL
+Instala programas
+Crea una base de datos
+Pregunta 4: Respuesta: Define cómo responde el servidor cuando un usuario accede a una URL
