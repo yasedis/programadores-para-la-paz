@@ -1,0 +1,8 @@
+Qué hace esta ruta.
+Para qué podría servir en una aplicación comunitaria.
+
+Esta ruta crea un endpoint POST llamado /reporte en una aplicación Express.js. 
+Cuando una persona envía un mensaje mediante una solicitud POST, la ruta recibe la información desde req.body.mensaje. 
+Luego, el servidor responde en formato JSON indicando que el reporte fue recibido correctamente y devuelve el mensaje enviado.
+En una aplicación comunitaria, esta ruta podría servir para que los ciudadanos envíen reportes sobre problemas o situaciones de su comunidad, como daños en vías, inundaciones, cortes de energía o alertas de seguridad. 
+También ayudaría a organizar la información de manera rápida y digital para que las autoridades o líderes comunitarios puedan revisarla y tomar decisiones.

@@ -1,0 +1,33 @@
+Pregunta 1 — Selección múltiple
+¿Qué es una ruta (route) en Express?
+Una carpeta del computador
+Una dirección que define cómo responde el servidor a una solicitud
+Un archivo de texto
+Un sistema operativo
+Respuesta: Una dirección que define cómo responde el servidor a una solicitud
+
+
+Pregunta 2 — Selección múltiple
+¿Qué método HTTP se usa normalmente para consultar información?
+DELETE
+GET
+UPDATE
+SAVE
+Respuesta: GET
+
+Pregunta 3 — Selección múltiple
+¿Qué método HTTP se usa normalmente para enviar o registrar información?
+POST
+GET
+OPEN
+RUN
+Respuesta: POST
+
+Pregunta 4 — Selección múltiple
+¿Qué significa API?
+Aplicación para internet
+Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí
+Archivo privado de internet
+Sistema operativo web
+Respuesta: Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí
+
