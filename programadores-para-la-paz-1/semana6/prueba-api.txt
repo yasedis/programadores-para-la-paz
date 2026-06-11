@@ -1,0 +1,9 @@
+El servidor recibió correctamente la información enviada y respondió con un objeto JSON que contiene el estado de la operación, el nombre y el mensaje enviados.
+
+Respuesta obtenida:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
