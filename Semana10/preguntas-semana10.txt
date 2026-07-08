@@ -1,0 +1,38 @@
+Pregunta 1 — Selección múltiple
+¿Qué es un backlog en un proyecto de software?
+Un error del servidor.
+Una lista priorizada de tareas o funcionalidades por desarrollar.
+Una carpeta del sistema operativo.
+Un archivo PDF.
+
+Respuesta: Una lista priorizada de tareas o funcionalidades por desarrollar.
+
+
+Pregunta 2 — Selección múltiple
+¿Qué describe mejor una historia de usuario?
+Una foto del proyecto.
+Una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+Un comando de terminal.
+Un tipo de base de datos.
+
+Respuesta: Una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+
+
+Pregunta 3 — Selección múltiple
+¿Cuál es el propósito principal de n8n en esta semana?
+Diseñar interfaces gráficas avanzadas.
+Automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+Reemplazar completamente Node.js.
+Crear sistemas operativos.
+
+Respuesta: Automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+
+
+Pregunta 4 — Selección múltiple
+¿Para qué puede servir Telegram en esta semana?
+Solo para enviar stickers.
+Como canal de coordinación, convocatoria y notificación comunitaria.
+Para reemplazar Git.
+Para instalar bases de datos.
+
+Respuesta: Como canal de coordinación, convocatoria y notificación comunitaria.
