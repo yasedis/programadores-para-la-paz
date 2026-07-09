@@ -1,0 +1,35 @@
+Pregunta 1 — Selección múltiple
+¿Qué es una base de datos en una aplicación?
+Un programa para editar texto.
+Un sistema que permite almacenar y consultar información estructurada.
+Un servidor web.
+Un navegador.
+
+Respuesta: Un sistema que permite almacenar y consultar información estructurada.
+
+Pregunta 2 — Selección múltiple
+¿Qué significa CRUD en programación?
+Crear, leer, actualizar y eliminar datos.
+Copiar archivos del sistema.
+Ejecutar comandos de terminal.
+Crear servidores.
+
+Respuesta: Crear, leer, actualizar y eliminar datos.
+
+Pregunta 3 — Selección múltiple
+¿Qué permite la autenticación de usuarios en una aplicación?
+Que cualquier persona acceda sin control.
+Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+Crear archivos del sistema.
+Instalar software.
+
+Respuesta: Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+
+Pregunta 4 — Selección múltiple
+¿Por qué es importante proteger datos sensibles en una plataforma digital?
+Para que cualquier persona pueda verlos.
+Para evitar riesgos de privacidad o uso indebido de la información.
+Para mejorar el diseño visual.
+Para instalar aplicaciones.
+
+Respuesta: Para evitar riesgos de privacidad o uso indebido de la información.
