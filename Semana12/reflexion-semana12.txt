@@ -1,0 +1,7 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy importante para fortalecer la participación ciudadana y la organización comunitaria. 
+Comprendí que una plataforma no solo debe funcionar correctamente, sino también proteger la información de los usuarios y facilitar el acceso a los servicios. 
+También aprendí la importancia de las metodologías ágiles para organizar el desarrollo de proyectos y mejorar continuamente las soluciones.
+El uso adecuado de bases de datos permite gestionar la información de manera ordenada y segura.
+Además, entendí que la automatización puede apoyar procesos repetitivos sin comprometer los datos personales.
+Todo esto demuestra que el desarrollo de software puede contribuir a resolver necesidades reales de la comunidad. 
+Como futuro profesional, considero que es fundamental crear herramientas tecnológicas responsables, accesibles y con impacto social positivo.

@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Mensaje que se envía:
+"Nueva causa creada en la plataforma. Revise la información para su seguimiento."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar cédulas, números de teléfono, direcciones, correos electrónicos, comentarios privados ni otros datos personales de los ciudadanos.

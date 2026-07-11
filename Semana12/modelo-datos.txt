@@ -1,0 +1,17 @@
+Entidad: Causa
+
+* id
+* titulo
+* descripcion
+* fecha
+
+Esta entidad almacena la información principal de cada causa creada por los ciudadanos.
+
+Entidad: Apoyo
+
+* id
+* causa_id
+* nombre
+* fecha
+
+Esta entidad registra los apoyos que recibe cada causa y permite relacionarlos con la causa correspondiente mediante el campo causa_id.
